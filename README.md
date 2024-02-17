@@ -1,16 +1,16 @@
 # ECE344-Operating-Systems
 
 Course Contents:
-*Operating system structure
-*processes/threads
-*synchronization
-*CPUscheduling
-*memory-management
-*filesystems
-*input/output
-*multiple-processor-systems
-*memory virtualization
-*protection
+* perating system structure
+* processes/threads
+* synchronization
+* CPUscheduling
+* memory-management
+* filesystems
+* input/output
+* multiple-processor-systems
+* memory virtualization
+* protection
 
 __Lab Descriptions:__
 1. **Warmup**: simple C code as a warmup lab
