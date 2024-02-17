@@ -1,7 +1,7 @@
 # ECE344-Operating-Systems
 
 
-Lab Descriptions:
+__Lab Descriptions:__
 1. **Warmup**: simple C code as a warmup lab
 2. **Threads** implemented threads managing library that enables context switching, interrupt handling, wait, preemptive scheudling and etc.
 3. **Shell Pipe**: executes a series of shell commands connected by pipes (|) using recursion. 
