@@ -1,6 +1,6 @@
 # ECE344-Operating-Systems
 
-Course Contents:
+__Course Contents:__
 * perating system structure
 * processes/threads
 * synchronization
